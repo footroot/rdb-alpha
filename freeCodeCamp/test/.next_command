@@ -226,3 +226,4 @@ find -name styles.css
 find -name src
 ls --color=auto
 find
+cd client/
