@@ -298,3 +298,5 @@ find -name footer.jpeg
 mv ./images/footer.jpeg client/assets/images
 ls --color=auto
 find
+ls --color=auto
+rmdir images/
