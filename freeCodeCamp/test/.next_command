@@ -301,3 +301,12 @@ find
 ls --color=auto
 rmdir images/
 rm ./images/background.jpg
+rmdir images/
+rmdir images/
+ls --color=auto
+cd images/
+ls --color=auto
+rm website
+ls --color=auto
+cd ..
+rmdir images/
