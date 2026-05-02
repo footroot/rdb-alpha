@@ -348,3 +348,4 @@ find
 rm --help
 ls --color=auto
 rm -r fonts/
+ls --color=auto
