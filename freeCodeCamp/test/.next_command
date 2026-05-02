@@ -152,3 +152,4 @@ ls --color=auto
 cd ..
 pwd
 cd ..
+cd ../..
