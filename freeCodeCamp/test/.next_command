@@ -235,3 +235,53 @@ touch background.jpg
 cd ../../..
 cd images/
 ls --color=auto
+mv header.png website
+ls --color=auto
+cd ..
+ls --color=auto
+cd images/
+ls --color=auto
+mv header.png ../website
+find -name header.png
+find header.png
+ls --color=auto
+more website
+ls --color=auto website
+cd ../
+ls --color=auto
+cd images/
+ls --color=auto
+cd ./client
+ls --color=auto
+cd ..
+ls --color=auto
+cd client/
+ls --color=auto
+cd src/
+ls --color=auto
+cd ..
+ls --color=auto
+cd assets/
+ls --color=auto
+cd ima
+cd images/
+ls --color=auto
+ls --color=auto
+cd ..
+cd ..
+cd ..
+ls --color=auto
+pwd
+cd ..
+ls --color=auto
+cd website/
+ls --color=auto
+touch header.png
+ls --color=auto
+mv header.png website
+ls --color=auto
+cd images/
+ls --color=auto
+touch header.png
+ls --color=auto
+mv header.png ..
