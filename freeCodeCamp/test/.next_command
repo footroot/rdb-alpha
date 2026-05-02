@@ -310,3 +310,4 @@ rm website
 ls --color=auto
 cd ..
 rmdir images/
+ls --color=auto
