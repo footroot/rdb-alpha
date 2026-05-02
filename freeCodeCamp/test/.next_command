@@ -122,3 +122,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 pwd
 ls --color=auto
 cd freeCodeCamp/
+pwd
