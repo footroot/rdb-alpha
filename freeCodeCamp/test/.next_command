@@ -150,3 +150,5 @@ more index.js
 cd /has
 ls --color=auto
 cd ..
+pwd
+cd ..
