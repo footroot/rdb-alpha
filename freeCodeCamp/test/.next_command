@@ -163,3 +163,4 @@ echo hello world
 echo hello website
 touch index.html
 touch styles.css
+ls --color=auto
