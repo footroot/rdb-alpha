@@ -311,3 +311,16 @@ ls --color=auto
 cd ..
 rmdir images/
 ls --color=auto
+find
+mkdir icons client/assets
+mkdir icons ./client/assets/
+ls --color=auto
+cd client/
+ls --color=auto
+cd assets/
+ls --color=auto
+cd ../..
+ls --color=auto
+mkdir /client/assets
+mkdir /client/assets/icons
+mkdir client/assets/icons/
